@@ -1,1 +1,2 @@
-# UoG-CT4029-Gui-Calculator
+# Calculator-with-Memory
+Initial commit
